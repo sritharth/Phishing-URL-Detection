@@ -2,9 +2,9 @@
 
 ### Phishing
 
-   •  Phishing is an online scam where attackers trick people into giving personal information, like passwords or credit cardnumbers.
+   -•  Phishing is an online scam where attackers trick people into giving personal information, like passwords or credit cardnumbers.
 
-   •  Scammers often pretend to be a trusted source, like a bank or company, and send fake emails or links that look legitimate. If you click these links, you               may be directed to a fake website that resembles the real one.
+   -•  Scammers often pretend to be a trusted source, like a bank or company, and send fake emails or links that look legitimate. If you click these links, you               may be directed to a fake website that resembles the real one.
 
    •  When users enter their information on these fake sites, attackers can steal the data for harmful purposes, such as identity theft or financial fraud.
 
