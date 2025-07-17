@@ -1,6 +1,6 @@
 # Phishing-URL-Detection
 
-##Phishing
+#Phishing
 
  • Phishing is an online scam where attackers trick people into giving personal information, like passwords or credit     cardnumbers.
 
@@ -28,7 +28,7 @@
 
 3.Evaluating System Performance: By keeping records in models like detection_accuracy and detection_ratio, the database facilitates ongoing evaluation of the detection model's performance. This data can be used to refine the algorithms and ensure they stay accurate and relevant to current phishing tactics.
 
-##Importance of the Database in This Project
+#Importance of the Database in This Project
 
 • Data Persistence: With a database, user registrations, predictions, and performance metrics are permanently stored,    ensuring no information is lost during system restarts or updates. This data permanence supports both the              functionality and reliability of the system.
 
